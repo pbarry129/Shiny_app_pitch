@@ -1,9 +1,9 @@
 # Shiny_app_pitch
 Peer graded assignment: shiny application and reproducible pitch
 
-The shiny app for the assingment is to be found at https://pbarry.shinyapps.io/testmatrix/
-Instructions for this app are available at https://pbarry.shinyapps.io/firstpres_doc/
-The pitch for this app is to be found at http://rpubs.com/pbarry129/my_pitch
+* The shiny app for the assingment is to be found at https://pbarry.shinyapps.io/testmatrix/
+* Instructions for this app are available at https://pbarry.shinyapps.io/firstpres_doc/
+* The pitch for this app is to be found at http://rpubs.com/pbarry129/my_pitch
 
 The shiny app is written in a single file with ui<-fluidPage(...) and server<-function(input, output){...}.
 This is in the present github directory as app.R
