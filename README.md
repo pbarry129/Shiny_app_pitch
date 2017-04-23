@@ -9,7 +9,7 @@ The shiny app is written in a single file with ui<-fluidPage(...) and server<-fu
 This is in the present github directory as app.R
 
 The app randomly generates two n x n matrices where n (range 1:6) is input by the user.
-The product of these two matrices is calculated (after pressing an action button named "Display..."
+The product of these two matrices is calculated (after pressing an action button named "Display...").
 Depending on whether a checkbox is checked or not, either the product matrix is displayed or a plot of the normalised values of one matrix against the values of the other matrix is plotted. Here, the values are obtained by 'flattening' the matrices to be vectors. 
 
 1. Input the size of the matrices
